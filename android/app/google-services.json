@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247636140857",
+    "firebase_url": "https://licenta-f5ff0.firebaseio.com",
+    "project_id": "licenta-f5ff0",
+    "storage_bucket": "licenta-f5ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247636140857:android:3048842ae45b7ccabbbee8",
+        "android_client_info": {
+          "package_name": "com.elizian.licenta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247636140857-dk8ljrv312nv7kv3d37ci7namgqvr7bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDE8hMZjW3Oi3ra1VwpbDSY_Bn5nys5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247636140857-dk8ljrv312nv7kv3d37ci7namgqvr7bs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247636140857-p0f31qko9rcochqld9kqbgf2s6fui099.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ionut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
